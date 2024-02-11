@@ -1,4 +1,3 @@
-[![MasterHead](https://www.shutterstock.com/tr/image-vector/set-vector-icons-related-coding-contains-2156061711)
 
 <h1 align="center">Hi 👋, I'm Tolga</h1>
 <h3 align="center">A passionate Fullstack developer from Türkiye</h3>
