@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D03AQFqhjiKU7-YOQ/profile-displayphoto-shrink_800_800/0/1696519358602?e=1713398400&v=beta&t=t1gusMvPRypr53_a4YEGbTD1I_XHYjdxI6aG6-pDFzE)
+[![MasterHead](https://www.shutterstock.com/tr/image-vector/set-vector-icons-related-coding-contains-2156061711)
 
 <h1 align="center">Hi 👋, I'm Tolga</h1>
 <h3 align="center">A passionate Fullstack developer from Türkiye</h3>
